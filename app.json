@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "88e2b5a6-2ddb-4b52-8506-fb820add7921"
+      }
+    },
+    "owner": "tithidutta"
   }
 }
